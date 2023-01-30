@@ -14,5 +14,5 @@ This Project was practice using a AWS Codepipline to automate a static website o
 6. Configure GitHub as the source provider and connect to your GitHub account.
 7. Add the repository with the index.html file in it to the pipeline.
 8. Add Amazon S3 as the deploy provider and select the bucket with the index.html file in it. Make sure to allow for the file to be extracted before being deployed.
-9. Create the pipeline. It will take a few seconds for it to be deployed/
+9. Create the pipeline. It will take a few seconds for it to be deployed.
 10. Test the pipeline by uploading a change to the index.html file to the GitHub repository.
